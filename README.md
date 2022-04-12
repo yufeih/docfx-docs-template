@@ -9,4 +9,10 @@
 
 2. Run `docfx build` from this directory to build the site. The `_site` folder contains an xcopy deployable static site.
 
-3. Run `docfx serve` to preview the site.
+3. Run `docfx serve` and browse to `http://127.0.0.1:8080/test` to preview the site.
+
+## Known Limitations
+
+- TOC links are not working.
+- The `template` is using a slightly modified fork.
+- The `template`, `templateBasePath`, `basePath` config is required for now.
