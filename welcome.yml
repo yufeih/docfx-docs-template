@@ -1,0 +1,113 @@
+### YamlMime:Welcome
+title: Developer tools, technical documentation and coding examples | Microsoft Docs 
+heroTitle: Microsoft technical documentation
+summary: The home for Microsoft documentation and learning for developers and technology professionals.
+searchPlaceholder: Search for articles, training, and code samples...
+metadata:
+  ms.translationtype: HT
+  ms.topic: hub-page
+  ms.prod: multiple 
+directory:
+  supertitle: Index
+  title: Product Directory
+  links:
+    - url: /dotnet/
+      text: .NET
+    - url: /aspnet/core/
+      text: ASP.NET
+    - url: /azure/
+      text: Azure
+    - url: /azure/architecture/
+      text: Azure Architecture Center
+    - url: /azure/devops/
+      text: Azure DevOps
+    - url: /cpp/
+      text: C++
+    - url: /dotnet/csharp/
+      text: C#
+    - url: /dynamics365/
+      text: Dynamics 365
+    - url: /gaming/
+      text: Gaming
+    - url: /microsoft-365
+      text: Microsoft 365
+    - url: /microsoft-edge/
+      text: Microsoft Edge
+    - url: /security/
+      text: Microsoft Security
+    - url: /microsoftteams/
+      text: Microsoft Teams
+    - url: /onedrive/
+      text: OneDrive
+    - url: /powerapps/
+      text: Power Apps
+    - url: /power-bi/
+      text: Power BI
+    - url: /power-platform/
+      text: Power Platform
+    - url: /powershell/
+      text: PowerShell
+    - url: /sharepoint/
+      text: SharePoint
+    - url: /sql/
+      text: SQL Server
+    - url: /dotnet/visual-basic/
+      text: Visual Basic
+    - url: /visualstudio/products/
+      text: Visual Studio
+    - url: /windows/
+      text: Windows
+    - url: /xamarin/
+      text: Xamarin
+  addendum:
+    text: Don't see what you're looking for?
+    link:
+      text: View entire directory
+      url: /documentation/
+featured:
+  title: Microsoft Learn
+  supertitle: Featured
+  summary: Whether you're just starting or an experienced professional, our hands-on approach helps you arrive at your goals faster, with more confidence and at your own pace.
+  imageUrl: /en-us/media/home-and-directory/docs-and-friends-selfie-stick.png?branch=master
+  links:
+    - title: Learn on your own schedule
+      supertitle: Learning paths
+      summary: Explore a topic in-depth through guided paths or learn how to accomplish a specific task through individual modules.
+      imageUrl: /en-us/media/home-and-directory/featured-learning-paths-2x.png?branch=master
+      link:
+        url: /learn/
+        text: Browse all learning options
+    - title: Become Microsoft certified
+      supertitle: Certifications
+      summary: Jump-start your career and demonstrate your achievements through industry-recognized Microsoft certifications.
+      imageUrl: /en-us/media/home-and-directory/featured-certifications-2x.png?branch=master
+      link:
+        url: /learn/certifications/
+        text: Explore Certifications
+    - title: Watch live and recorded events
+      supertitle: Learn TV
+      summary: View streaming technical content about Microsoft products from the experts that build and use it every day.
+      imageUrl: /en-us/media/home-and-directory/featured-learn-tv-2x.png?branch=master
+      link:
+        url: /learn/tv/
+        text: Start watching now
+resources:
+  title: Recommended Resources
+  links:
+    - title: Startups
+      imageUrl: /en-us/media/home-and-directory/startups-icon.svg?branch=master
+      summary: 'Stronger together: Calling Social Entrepreneurs around the globe with COVID-19 solutions.'
+      url: https://startups.microsoft.com/en-us/
+    - title: Students
+      imageUrl: /en-us/media/home-and-directory/students-icon.svg?branch=master
+      summary: Put professional developer tools and software in the hands of students.
+      url: https://azure.microsoft.com/en-us/free/students/
+    - title: Learn TV
+      imageUrl: /en-us/media/home-and-directory/learn-tv-icon.svg?branch=master
+      summary: Video content by developers and technical enthusiasts devoted to including you in the conversation.
+      url: /learn/tv/
+  addendum:
+    text: Interested in the latest announcements and updates to Microsoft Docs?
+    link:
+      text: Check out the team blog
+      url: /teamblog/

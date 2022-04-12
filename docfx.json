@@ -1,0 +1,5 @@
+{
+  "template": "https://github.com/yufeih/templates.docs.msft#static-site",
+  "templateBasePath": "/",
+  "hostName": "https://docs.microsoft.com"
+}
